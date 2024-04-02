@@ -53,7 +53,7 @@
                 <br> <!-- Salto de Linea-->
                 ¡Conéctate conmigo para explorar oportunidades de colaboración y desarrollo conjunto en estos
                 emocionantes
-                campos!</li>
+                campos!
             </ul>
         </div>
 
