@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 
 <head>
@@ -417,6 +416,3 @@
             </dl>
         </div>
 
-</body>
-
-</html>
