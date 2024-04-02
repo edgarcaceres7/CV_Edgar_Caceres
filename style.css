@@ -1,70 +1,167 @@
 /*Comentarios CSS*/
 
 h1 {
-    color:#2D3C76;
+    color: #2D3C76;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-style: unset;
-    
+
 }
+
 h3 {
-    color:#2D3C76;
+    color: #2D3C76;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    
+
 }
+
 li {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    
+
 }
+
 ul {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    
+
 }
+
 dl {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
+
 dd {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
 .Empresa {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #32AFB2;
-    font-weight: 700; /*PONER NEGRITA*/
+    font-weight: 700;
+    /*PONER NEGRITA*/
 }
-.Rol{
+
+.Rol {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-weight: 500; /*PONER NEGRITA*/
-    color: #555E70;
+    font-weight: 500;
+    /*PONER NEGRITA*/
+    color: #a7bbe3;
 }
+
 .Institucion {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #32AFB2;
-    font-weight: 700; /*PONER NEGRITA*/ 
+    font-weight: 700;
+    /*PONER NEGRITA*/
 }
+
 .habilidades {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #32AFB2;
-    font-weight: 700; /*PONER NEGRITA*/ 
+    font-weight: 700;
+    /*PONER NEGRITA*/
 }
+
 .Portada {
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
     display: flex;
+    min-width: 100vb;
 }
-.Acerca_de_mi {
-    display: flexbox;
+
+.Datos_personales {
+    text-align: left;
+    background-color: #dcdcdc;
 }
+
 .Estudios {
-    display: flexbox;
+    text-align: left;
+    background-color: #dcdcdc;
+    padding: 0;
+    margin: 0;
 }
+
+.Acerca_de_mi {
+    text-align: left;
+    padding: 0;
+    margin: 0;
+}
+
 .Grupo_Habilidades {
-    display: flexbox;
+    text-align: left;
+    background-color: #dcdcdc;
+    padding: 0;
+    margin: 0;
 }
+
 .Experiencia {
-    display: flexbox;
+    text-align: left;
 }
+
 .Cursos {
-    display: flexbox;
+    text-align: left;
+
 }
+
 .Sangria_doble {
     padding: 0;
-    margin: 0 ;
+    margin: 0;
+}
+
+.Inicio {
+    display: grid;
+    grid-template-columns: auto auto;
+    text-align: center;
+    background-size: cover;
+    gap: 10px;
+    padding: 0;
+    margin: 0;
+}
+
+.Medio {
+    display: grid;
+    grid-template-columns: auto auto;
+    text-align: center;
+    background-size: cover;
+    gap: 10px;
+}
+
+.Titulos {
+    text-align: center;
+}
+
+.Fin {
+    display: grid;
+    background-color: #2D3C76;
+    grid-template-columns: auto;
+    text-align: center;
+    background-size: cover;
+    gap: 10px;
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+
+}
+
+.Descargar_CV {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight: 700;
+    /*PONER NEGRITA*/
+    display: grid;
+    background-color: #2D3C76;
+    grid-template-columns: auto;
+    text-align: center;
+    background-size: cover;
+    text-decoration: none;
+    justify-content: center;
+}
+
+.Cierre {
+    color: white;
+    background-color: #2D3C76;
 }
