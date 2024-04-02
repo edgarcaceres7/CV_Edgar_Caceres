@@ -1,0 +1,70 @@
+/*Comentarios CSS*/
+
+h1 {
+    color:#2D3C76;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: unset;
+    
+}
+h3 {
+    color:#2D3C76;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+li {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+ul {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+dl {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+dd {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Empresa {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #32AFB2;
+    font-weight: 700; /*PONER NEGRITA*/
+}
+.Rol{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500; /*PONER NEGRITA*/
+    color: #555E70;
+}
+.Institucion {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #32AFB2;
+    font-weight: 700; /*PONER NEGRITA*/ 
+}
+.habilidades {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #32AFB2;
+    font-weight: 700; /*PONER NEGRITA*/ 
+}
+.Portada {
+    display: flex;
+}
+.Acerca_de_mi {
+    display: flexbox;
+}
+.Estudios {
+    display: flexbox;
+}
+.Grupo_Habilidades {
+    display: flexbox;
+}
+.Experiencia {
+    display: flexbox;
+}
+.Cursos {
+    display: flexbox;
+}
+.Sangria_doble {
+    padding: 0;
+    margin: 0 ;
+}
