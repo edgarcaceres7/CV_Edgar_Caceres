@@ -5,13 +5,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CV Edgar Cáceres Olmedo</title>
-    <link rel="stylesheet" href=".\css\style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
     <!-- Portada -->
     <section class="Portada">
-        <img src="img/Portada Web.png" alt="Portada">
+        <img src="Portada Web.png" alt="Portada">
 
     </section>
     <!-- Fin Portada -->
