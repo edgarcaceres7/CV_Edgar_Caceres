@@ -19,7 +19,7 @@
             <h3 class="Titulos">Datos Personales</h3>
             <ul>
                 <li>DNI : 35.979.848</li>
-                <li>Nacionalidad: Argentino (05/03/1991 - 33 Años)</li>
+                <li>Nacionalidad: Argentino (05/03/1991 - 34 Años)</li>
                 <li>Celular: 15-6189-0817</li>
                 <li>Email : edgar.caceres1991@gmail.com</li>
                 <li>Domicilio: Avellaneda - GBA</li>
